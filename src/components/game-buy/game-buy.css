@@ -1,0 +1,14 @@
+.game-buy {
+  background-color: #242424;
+  width: 260px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 1px solid #484848;
+  border-radius: 15px;
+}
+
+.game-buy__price {
+  margin-left: 5px;
+}
